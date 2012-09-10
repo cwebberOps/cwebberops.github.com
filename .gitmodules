@@ -1,0 +1,3 @@
+[submodule "2012-fall-infra-update"]
+	path = 2012-fall-infra-update
+	url = git://github.com/cwebberOps/2012-fall-infra-update.git
