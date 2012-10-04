@@ -1,3 +1,6 @@
 [submodule "2012-fall-infra-update"]
 	path = 2012-fall-infra-update
 	url = git://github.com/cwebberOps/2012-fall-infra-update.git
+[submodule "zfs-api-preso"]
+	path = zfs-api-preso
+	url = git://github.com/cwebberOps/zfs-api-preso.git
