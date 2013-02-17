@@ -6,4 +6,4 @@
 	url = git://github.com/cwebberOps/zfs-api-preso.git
 [submodule "scale11x-tdd_for_ops"]
 	path = scale11x-tdd_for_ops
-	url = git@github.com:cwebberOps/scale11x-tdd_for_ops.git
+	url = git://github.com/cwebberOps/scale11x-tdd_for_ops.git
